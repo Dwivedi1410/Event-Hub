@@ -138,6 +138,15 @@ sketch
 
 
 
+# AI Tooling & System Locks
+.windsurf/
+.claude/
+agents/
+skill-lock.json
+skills-lock.json
+
+
+
 
 
 

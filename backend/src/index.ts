@@ -1,4 +1,5 @@
 import express, {type Express, type Request, type Response} from "express";
+import {prisma} from "./config/db.js";
 
 const app: Express = express();
 const PORT = process.env.PORT || 5000;
